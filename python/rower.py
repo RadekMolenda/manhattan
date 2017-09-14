@@ -6,6 +6,11 @@ Created on Thu Aug 17 20:51:56 2017
 @author: radek
 """
 
+import hug
+
+from datetime import datetime
+
+
 class Rower():
     def jedz(self):
         self.krec_pedalami()
